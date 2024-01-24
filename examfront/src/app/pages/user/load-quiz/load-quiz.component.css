@@ -1,0 +1,12 @@
+.truncate{
+  display: block;
+  white-space: nowrap;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.header-icon{
+  background-image: url("/assets/exam_icon.png");
+  background-size: cover;
+}
